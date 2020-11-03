@@ -10,7 +10,7 @@ Write a computer program in MATLAB to,
 (a) Evaluate the link lengths ratios K1, K2 and K3 using three precision points, and
 hence determine the lengths of the other links. Use Chebyshev's spacing. De-
 termine the transmission angles for the given range of input angles and at an
-increment of 50, and plot the variation of the transmission angles with the input
+increment of 5 degrees, and plot the variation of the transmission angles with the input
 angles. Comment on the quality of transmission of the linkage.
 
 (b) Evaluate the link lengths ratios K1, K2 and K3 using the least square method
